@@ -1,4 +1,7 @@
 # 🎨 Umme Habiba's Graphic Design Portfolio
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/729829/screenshots/2534343/galshir-sharpener.gif" width="280" alt="Designer Animation"/>
+</p>
 
 Welcome to my design space!  
 I'm a passionate **Graphic Designer** and **Software Engineering student** who loves turning ideas into visual stories.  
